@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+.table {
+	text-align: center;
+}
+.table th {
+	text-align: center;
+}
+
+.tip span i {
+	margin: 0 5px;
+}
+
+a.disabled {
+	cursor: default;
+	color: grey;
+	text-decoration: none;
+}
+
+.expandable u {
+	cursor: pointer;
+}
+.expandable i {
+	margin: 0 5px;
+	color: grey;
+	vertical-align: middle;
+}

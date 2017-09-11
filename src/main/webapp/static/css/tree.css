@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+div#rMenu {position:absolute; visibility:hidden; top:0;text-align: left;padding: 2px;}
+
+div#rMenu ul li{
+	margin: 1px 0;
+	padding: 0 5px;
+	cursor: pointer;
+	list-style: none outside none;
+	background-color: #DFDFDF;
+}
+
+
+.ztree li a.level0 span {font-size: 120%;font-weight: bold;}
+.ztree li span.button {background-image:url("../image/left_menuForOutLook.png"); *background-image:url("../image/left_menuForOutLook.gif")}
+.ztree li span.button.switch.level0 {width: 20px; height:20px}
+.ztree li span.button.switch.level1 {width: 20px; height:20px}
+.ztree li span.button.noline_open {background-position: 0 0;}
+.ztree li span.button.noline_close {background-position: -18px 0;}
+.ztree li span.button.noline_open.level0 {background-position: 0 -18px;}
+.ztree li span.button.noline_close.level0 {background-position: -18px -18px;}

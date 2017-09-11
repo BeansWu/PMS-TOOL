@@ -1,0 +1,86 @@
+@charset "utf-8";
+a:focus {
+    outline:none;
+}
+
+.tableTrTd
+{
+	width:150px;
+	text-align:right;
+}
+
+.marginBottom
+{
+	margin-bottom:-10px;
+}
+
+.marginTop
+{
+	margin-top:-40px;
+}
+
+.table_1 tr th
+{
+	width:150px;
+	text-align:right;
+}
+
+.table_2 tr td
+{
+	width:150px;
+	text-align:right;
+}
+
+.table_2 tr td input
+{
+	margin-left:10px;
+	width:300px;
+}
+
+.tableDiv tr td div
+{
+	height:10px;
+}
+
+.tableDiv tr td div input
+{
+	height:30px;
+}
+
+.marginLR
+{
+	margin-left:15px;
+	margin-right:15px;
+}
+
+.btnRightMenu
+{
+	margin-top:3px;
+	width:100px;
+	height:30px;
+}
+
+.hInputA input
+{
+	position:absolute;
+	margin-top:10px;
+	margin-left:5px;
+}
+
+.table .btn {
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+.download-box {
+    margin: 20px;
+    /*border: 1px solid #CCC;*/
+    border-radius: 100px;   
+}
+.download-box  img{ width:150px; height:150px; margin-bottom:10px;}
+
+
+
+.download-box h4 btn{ border:none !important;}
+
+

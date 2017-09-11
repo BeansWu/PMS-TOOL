@@ -1,0 +1,108 @@
+#wizard {
+    /* border: 5px solid #789; */
+    font-size: 12px;
+    height: 800px;
+    margin: 0 auto;
+    width: 1200px;
+    overflow: hidden;
+    position: relative;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: thin;
+    border-style: solid;
+}
+
+#wizard .items {
+    width: 20000px;
+    clear: both;
+    position: absolute;
+}
+
+#wizard .right {
+    float: right;
+    margin-right:400px;
+}
+
+#wizard .left {
+    float: left;
+    margin-left:400px;
+}
+
+#wizard .skip {
+    float: left;
+    margin-left:60px;
+}
+
+#wizard #status {
+    height: 35px;
+    background: #123;
+    padding-left: 25px !important;
+}
+
+#status li {
+	list-style:none; /* 将默认的列表符号去掉 */
+    float: left;
+    color: #fff;
+    padding: 10px 30px;
+}
+
+#status li.active {
+    background-color: #369;
+    font-weight: normal;
+}
+
+.input {
+    width: 240px;
+    height: 18px;
+    margin: 10px auto;
+    line-height: 20px;
+    border: 1px solid #d3d3d3;
+    padding: 2px
+}
+
+.page {
+    padding: 20px 30px;
+    width: 1200px;
+    float: left;
+}
+
+.page h3 {
+    height: 42px;
+    font-size: 16px;
+    border-bottom: 1px dotted #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 5px
+}
+
+.page h3 em {
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal
+}
+
+.page p {
+    line-height: 24px;
+}
+
+.page p label {
+    font-size: 14px;
+    display: block;
+}
+
+.btn_nav {
+    height: 36px;
+    line-height: 36px;
+    margin: 20px auto;
+}
+
+.pre1v, .nex1t {
+    width: 100px;
+    height: 32px;
+    line-height: 32px;
+    border: 1px solid #d3d3d3;
+    cursor: pointer
+}
+
+.step{
+	height: 550px;
+}

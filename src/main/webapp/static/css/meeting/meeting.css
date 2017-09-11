@@ -1,0 +1,104 @@
+@charset "utf-8";
+
+.list-group-downbtn {
+	margin-top:-40px;
+	font-size: 24px;
+	color:#CCCCCC;
+}
+
+.list-group-btn-info {
+	margin-top:10px;
+}
+
+.meeeting-info-avatar {
+	margin-top:5px;
+}
+
+.meeeting-info-name {
+	margin-left:10px;
+}
+
+.row div h5 {
+	margin-top:10px;
+}
+
+.meeting-member-item-name {
+	font-size: 15px;
+}
+
+.meeting-member-item-phone {
+	font-size: 10px;
+}
+
+.user-status {
+	margin-top:-13px;
+	margin-left:20px;
+}
+
+.badge {
+	background-color: #00CC66;
+}
+
+.organ-select-btn {
+	margin-top:-25px;
+}
+
+.mainnav-form {
+	border: 0px;
+}
+
+.inmeeting-item {
+	width:80px;
+	height:100px;
+	float: left;
+	margin-right:10px;
+	margin-bottom:20px;
+}
+
+.inmeeting-item-yj {
+	background-color:#99FFFF;
+	width:60px;
+	height:60px;
+	background-repeat:no-repeat;
+	-moz-background-size:100% 100%;
+    background-size:100% 100%;
+}
+
+.inmeeting-item-yj-yj {
+	padding-top:20px;
+}
+
+.inmeeting-item-name {
+	margin-top:10px;
+	font-size: 15px;
+}
+
+.meeting-ing {
+	background-color:#DB3737;
+	width:60px;
+	height:60px;
+	webkit-border-radius: 50%;
+	border-radius: 50%;
+	left:auto;
+	z-index:1000;
+	margin-bottom:20px;
+	cursor:pointer;
+	margin-right:10px;
+	color:white;
+	padding-top:20px;
+}
+
+.yj {
+	border-radius: 200px;
+	-webkit-border-radius: 200px;
+}
+
+.jz {
+	 position: absolute;
+	 left: 50%;
+}
+
+.member-list-item {
+	
+}
+

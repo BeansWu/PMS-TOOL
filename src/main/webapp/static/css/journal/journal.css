@@ -1,0 +1,23 @@
+.mreport-info-recall-list {
+	margin-top: 10px;
+}
+
+.mreport-info-recall-list .item {
+	padding-top: 5px;
+	min-height: 50px;
+	margin-bottom: 10px;
+}
+
+.mreport-info-process-list {
+	
+}
+
+.mreport-info-process-list .item {
+	margin-right: 10px;
+	padding-top: 3px;
+	font-size: 14px;
+}
+
+.mreport-selecttime {
+	width: 56px!important;
+}

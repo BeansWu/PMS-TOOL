@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+@media screen and (min-width:992px) {.modal-lg{width:900px}}
+
+.content-title {margin-top: 15px;}
+.form {padding-left: 15px; padding-right: 15px;}
+.form-group {margin-bottom: 15px;}
+.form-group label.label-for {cursor: pointer; font-weight: normal;}
+.form-group.fields {font-size: 16px;}
+hr {margin-top: 5px;}
+
+.dataTables_wrapper {margin-bottom: 0;}
+
+.rules .panel-heading:hover, #rules .panel-heading.in {
+    cursor: pointer;
+    color: #fff;
+    background-color: #d74b4b;
+}
+.rules .panel-title span {font-weight: 600;}
+.rules .panel-title span a {color: inherit;}
+.rules .panel-title span a:hover {color: inherit; text-decoration: underline;}
+.rules .panel-title span i {font-size: 13px;}
+.rules .panel-title a.icon {color: #d74b4b;}
+.rules .panel-heading:hover .panel-title a.icon, #rules .panel-heading.in .panel-title a.icon {color: inherit;}
+.rules .panel-body .form-group {margin-bottom: 15px;}
+
+.rename .modal-dialog {
+    margin-top: 150px;
+}

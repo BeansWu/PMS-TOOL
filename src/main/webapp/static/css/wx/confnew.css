@@ -1,0 +1,120 @@
+@charset "utf-8";
+
+.hidden {
+	display: none;
+}
+
+.create-new .menu {
+	margin-top:10px;
+	padding:10px;
+}
+
+.create-new .member-menu {
+	text-align: center;
+}
+
+.create-new .members {
+	overflow: auto;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.create-new .members .cell {
+	float: left;
+	text-align : center;
+	width:60px;
+	height:60px;
+	margin-bottom:10px;
+}
+
+.create-new .members .cell .delion{
+	position: absolute;
+    margin-left: 19px;
+    margin-top: 3px;
+}
+
+.create-new .members .cell .name{
+	font-size:10px;
+}
+
+.create-new .members .cell .avatar img{
+	display: block;
+}
+
+.select-conf-members .weui_cell {
+		padding-top:5px;
+		padding-bottom:5px;
+}
+
+.select-conf-members label.weui_cell img{
+	vertical-align:middle;
+}
+
+.select-conf-members .menu {
+	z-index: 999;
+	margin-bottom:5px;
+}
+
+.select-conf-members .menu button{
+	display:inline;
+	width:100px;
+}
+
+.controller-conf .title {
+	text-align: center;
+	margin-top:20px;
+	margin-bottom:20px;
+	color:#888;
+}
+
+.controller-conf .members {
+	overflow: auto;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+.controller-conf .members .item{
+	display: inline-block;
+	text-align:center;
+	width:80px;
+}
+
+.controller-conf .members .name{
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.controller-conf .members .item .status{
+	position:absolute;
+	z-index: 999;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.controller-conf .info{
+    height: 150px;
+}
+
+.controller-conf .info .msg{
+	overflow: auto;
+    height: 100px;
+    font-size:14px;
+    color:#888;
+}
+
+.controller-conf .info button{
+    width:80%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+.test {
+	background-color: red;
+}
+
+.group-item-name {
+	font-size: 14px;
+}
+
+.list-group-item-z {
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom:0px;
+}
+
+img.avatar {
+	height: 30px;
+	width: 30px;
+	-webkit-border-radius: 50% !important;
+	-moz-border-radius: 50% !important;
+	border-radius: 50% !important;
+	margin-top:5px;
+}
+
+.accordion-panel .panel.is-open .accordion-toggle {
+  color: #fff;
+  background-color: #99CCFF;
+}

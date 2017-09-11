@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+.backuprestore .meun {
+	padding:10px;
+	
+}
+
+.backuprestore .meun a{
+	width:200px;
+	margin-right:10px;	
+}
+
+.container .t {
+	
+}
+
+.backup-panel .checkbox .info {
+	margin-left:20px;
+}

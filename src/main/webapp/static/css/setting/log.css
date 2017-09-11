@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+.table{
+    text-align:center;	
+}
+.table thead tr th{
+    text-align:center ;
+}

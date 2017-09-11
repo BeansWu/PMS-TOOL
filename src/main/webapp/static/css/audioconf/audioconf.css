@@ -1,0 +1,26 @@
+
+.mx-meet-details {
+	height : 90px;
+}
+
+.mx-meet-details > div p
+{
+	padding-left:97px;
+}
+
+.mx-meet-details > div > span
+{
+	margin-left:10px;
+}
+
+.mx-viewer-side .mx-meet-chat {
+	padding-top:200px;
+}
+
+#audioConfTitle {
+	width: 220px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}

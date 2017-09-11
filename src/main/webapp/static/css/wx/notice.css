@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+.hidden {
+	display: none;
+}
+
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #000000;
+}
+
+a:active {
+	text-decoration: none;
+	color: #000000;
+}
+
+.item{
+    display: inline-table;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}

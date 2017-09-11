@@ -1,0 +1,38 @@
+
+.template-field-list {
+	border: solid 1px #D8D8D8;
+	border-radius:5px 5px 5px 5px;
+	padding: 5px;
+	overflow: auto;
+	overflow-y: auto;
+	max-height: 500px;
+}
+
+.template-field-list .item {
+	width:100%;
+	background-color:#ECECEC;
+	border-radius:5px 5px 5px 5px;
+	padding: 5px;
+	margin-bottom: 5px;
+	cursor: pointer;
+}
+
+.template-field-list .item .left {
+	display: inline-block;
+	width: 70%;
+}
+
+.template-field-list .item .right {
+	display: inline-block;
+	width: 29%;
+}
+
+.template-group-btn {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.template-group-btn button {
+	width: 100px;
+	margin-right: 10px;
+}
